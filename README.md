@@ -1,2 +1,13 @@
 # programmers
-programmers coding test
+- 프로그래머스 코딩테스트에서 작성한 코드를 기록합니다.
+- 개인 기록용입니다.
+- 더 좋은, 더 간편한 풀이가 있다면 얼마든지 알려주세요!
+
+---
+
+### level-0
+### level-1
+### level-2
+### level-3
+### level-4
+### level-5
