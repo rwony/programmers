@@ -1,6 +1,9 @@
 // https://github.com/rwony/programmers
 // 120808
-function solution(denum1, num1, denum2, num2) {
-  var answer = []
+function solution(n) {
+  let answer = 0
+  for (let i = 1; i <= n; i++) {
+    n % i === 0 ? answer++ : null
+  }
   return answer
 }
